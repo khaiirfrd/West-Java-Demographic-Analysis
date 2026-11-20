@@ -2,7 +2,7 @@
 Data cleaning and visualization of West Java population 2021–2025 using Excel Power Query, Pivot Tables, and Pivot Charts. The data used is sourced from BPS West Java.
 
 ## Dashboard & Visualizations
-![Demographic Analysis Chart 1](Screenshot%202026-11-20%20231212.png)
+![Demographic Analysis Chart 1](Screenshot%202026-11-20%20232350.png)
 
 ![Demographic Analysis Chart 2](Screenshot%202026-11-20%20231421.png)
 
